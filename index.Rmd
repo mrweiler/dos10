@@ -1,0 +1,160 @@
+---
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
+author: <small>Matthias Weiler</small>
+date: <small>02.05.2018</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: FALSE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# <small>What we did last week</small>
+
+----
+
+We did a final Q&A
+
+----
+
+Then you finished your projects
+
+----
+
+And finally you prepared your posters
+
+----
+
+Any questions or anything to add?
+
+# <small>Last week's homework</small>
+
+----
+
+Prepare your posters for <br>
+the final presentation
+
+----
+
+Think about what you liked<br>
+and what you didn't like<br>
+about this course
+
+----
+
+Any questions about the homework?
+
+# <small>Today:<br>Present your project results</small>
+
+----
+
+Poster presentation
+
+----
+
+Review this course
+
+----
+
+Say good bye
+
+# <small>Before we start</small>
+
+----
+
+Please give feedback!
+
+----
+
+Remember the feedback rules!
+
+# <small>Running order</small>
+
+----
+
+1. Team Elena
+2. Team Marianna
+3. Team Fotios
+4. Team Vaia
+
+----
+
+Any questions before we start?
+
+# <small>Poster presentations</small>
+
+----
+
+## <small>Mood and Memory</small>
+
+Stavroula Blazaki, Kyriaki Lazaki & Elena Voutiou 
+
+----
+
+## {data-background="posters/mood_and_memory.png" data-background-size="contain"}
+
+----
+
+## <small>Emotion regulation strategies of <br>Distraction and Reappraisal and <br>their relationship to Depressive Symptoms</small>
+
+Valliano Rokai & Marianna Zachou 
+
+----
+
+## {data-background="posters/emotion_regulation.png" data-background-size="contain"}
+
+----
+
+## <small>Impulsivity and reaction time</small>
+
+Christina Schoina, Erasmia Kaminari, Fotios Ntagkas & Ioanna Falegka
+
+----
+
+## {data-background="posters/impulsivity_reaction_time.png" data-background-size="contain"}
+
+----
+
+## <small>Is your eating behavior related <br>to your ability to control yourself?</small>
+
+Vaia Sideropoulou, Malamatenia Karvouniari & Regina-Eleni Vouloumanou
+
+----
+
+## {data-background="posters/eating_behaviour.png" data-background-size="contain"}
+
+# <small>Great job!</small>
+
+# <small>Course review</small>
+
+----
+
+What have you learned in this course?
+
+----
+
+What did you like about this course?
+
+----
+
+What didn't you like about this course?
+
+# <small>One last homework</small>
+
+----
+
+Please evaluate this course online:  
+<a href="http://tiny.cc/2nc9sy">http://tiny.cc/2nc9sy</a>
+
+# <small>Any questions left?</small>
+
+# <small>Thank you for your attention<br> and good bye</small>
